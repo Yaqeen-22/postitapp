@@ -3,7 +3,7 @@ const About = () => {
     <div>
       Yaqeen
       <br />
-      IT Lecturer - Yaqeen
+      IT Lecturer - Yaqeen - Oman
     </div>
   );
 };
